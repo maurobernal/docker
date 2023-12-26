@@ -1,5 +1,5 @@
 #---------------------------------------------------
-#   maurobernal/net6-build - Mi imagen para NET7
+#   maurobernal/net6-base - Mi imagen para NET7
 #   Author: Mauro Bernal
 #   Date: 2022/12/07 12:00
 #   Contacts: info@maurobernal.com.ar
