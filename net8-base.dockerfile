@@ -13,7 +13,7 @@ RUN apt-get install -y iputils-ping
 RUN apt-get install -y tzdata
 RUN apt-get install -y locales
 
-ENV LANG es_AR.UTF-8  
-ENV LANGUAGE es_AR:es  
-ENV LC_ALL es_AR.UTF-8  
-ENV TZ America/Mendoza
+ENV LANG=es_AR.UTF-8  
+ENV LANGUAGE=es_AR:es  
+ENV LC_ALL=es_AR.UTF-8  
+ENV TZ=America/Mendoza
